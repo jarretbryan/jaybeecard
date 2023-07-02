@@ -1,12 +1,13 @@
-It's me, Tierney!
+Jarret has an NPX Business Card
 
 # Usage
 
 ## npm
 ```
-npx bitandbang
+npx jaybeecard
 ```
 
+### Not yet:
 ## GitHub Package Registry
 Assuming you have the GitHub registry set up, you can use via npx:
 ```
